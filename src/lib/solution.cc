@@ -1,6 +1,6 @@
 #include "solution.h"
 
 std::string Solution::PrintHelloWorld() { 
-  return "**** Hello World ****"; 
+  return "**** Michael is my name! ****"; 
 }
 
